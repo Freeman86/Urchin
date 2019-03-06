@@ -1,0 +1,2 @@
+﻿у меня в setting.py ROOT_URLCONF = 'urchin.urls' и WSGI_APPLICATION = 'urchin.wsgi.application', потому что я проект назвал Urchin. 
+но я не стал менять, добавил только 'authapp'
